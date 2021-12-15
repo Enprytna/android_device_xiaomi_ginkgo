@@ -2134,6 +2134,13 @@ vendor/lib64/vendor.qti.ims.rcsconfig@2.1.so|db909e4fe10379283d09b0983ba60f849f1
 vendor/lib64/vendor.qti.imsrtpservice@3.0.so|460e589128fce0b0e83bb3c75aa32f7e1a9494fd
 vendor/lib64/vendor.qti.imsrtpservice@3.0-service-Impl.so|2ac3b639c06d085b1ce88ede7462be9a52a726f2
 
+# Servicetracker
+vendor/bin/hw/vendor.qti.hardware.servicetracker@1.2-service|e78e2acd5c7815e59f4506ecb79523a276c4df6f 
+vendor/etc/init/vendor.qti.hardware.servicetracker@1.2-service.rc|7cf06148da895586c20aab7e6bd01b806d8128b6 
+vendor/lib/hw/vendor.qti.hardware.servicetracker@1.2-impl.so|8048736230e1915347787f6d2b7f731be9b1fa16 
+vendor/lib64/hw/vendor.qti.hardware.servicetracker@1.2-impl.so|369a371ef3c35270c16becfcef0cc01f37ff4034
+-vendor/etc/vintf/manifest/vendor.qti.hardware.servicetracker@1.2-service.xml|40b6abd9b4be99dc5722eb60d71ee36764bf4ef3
+
 # Sensors HAL
 vendor/lib/sensors.ssc.so
 vendor/lib64/sensors.ssc.so
