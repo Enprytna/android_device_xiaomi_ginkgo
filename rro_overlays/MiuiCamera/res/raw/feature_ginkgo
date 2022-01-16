@@ -44,7 +44,7 @@
     "o_0x00_s_s_l":true,
     "o_0x15_support_dual_sd_card":true,
     "o_0x14_burst_count":20,
-    "c_0x36": true,
+    "c_0x36": false,
     "c_0x57":7500000,
     "c_0x5a":8500000,
     "c_0x53":true,
