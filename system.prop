@@ -60,11 +60,13 @@ persist.mm.enable.prefetch=true
 ro.media.recorder-max-base-layer-fps=60
 vendor.mm.enable.qcom_parser=63963135
 
-# Maintainer name
-ro.octavi.maintainer=Enn's
-
 # Netflix
 ro.netflix.bsp_rev=Q6125-17995-1
+
+# Octavi stuff
+ro.octavi.maintainer=Enn's
+ro.octavi.hw.cam=48Mp,8Mp,2Mp:2Mp
+ro.octavi.hw.cpu=Snapdragon 665 (11nm)
 
 # ZRAM
 ro.zram.mark_idle_delay_mins=60
