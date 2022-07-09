@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_ginkgo.mk
+    $(LOCAL_DIR)/p404_ginkgo.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_ginkgo-user \
-    derp_ginkgo-userdebug \
-    derp_ginkgo-eng
+    p404_ginkgo-user \
+    p404_ginkgo-userdebug \
+    p404_ginkgo-eng
