@@ -148,6 +148,7 @@ debug.mdpcomp.logs=0
 debug.cpurend.vsync=false
 debug.sf.disable_client_composition_cache=1
 debug.sf.layer_caching_active_layer_timeout_ms=1000
+debug.sf.enable_gl_backpressure=1
 debug.sf.enable_hwc_vds=1
 debug.sf.latch_unsignaled=1
 ro.config.avoid_gfx_accel=true
