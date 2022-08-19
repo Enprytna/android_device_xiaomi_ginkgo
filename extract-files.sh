@@ -65,6 +65,9 @@ function blob_fixup() {
         vendor/lib/miwatermark.so )
         "${PATCHELF}" --add-needed "lib-watermarkshim.so" "${2}"
             ;;
+        vendor/lib/miwatermark.so)
+        "${PATCHELF}" --add-needed "libpiex_shim.so" "${2}"
+            ;;
     esac
 }
 
